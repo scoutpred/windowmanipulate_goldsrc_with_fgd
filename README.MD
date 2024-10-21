@@ -22,7 +22,8 @@ Original HL .fgd - https://developer.valvesoftware.com/wiki/Half-Life.fgd
 
 ChatGPT for the majority of the codes.
 
-[Disclaimer]
+# [Disclaimer]
+
 Kindly check the source code. The program manipulates the registry mainly for the wallpaper changes, as well as getting information of the original wallpaper's settings you in order to revert properly.
 
 The creator of OneShot actually did this to his game as per this thread - https://steamcommunity.com/app/420530/discussions/0/1729828401683446528/
