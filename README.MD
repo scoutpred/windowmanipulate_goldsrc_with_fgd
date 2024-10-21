@@ -1,11 +1,15 @@
 Hello!
 
 This is a small tech demo of window manipulation in GoldSrc Engine. What does it do currently as of writing:
+
 -An entity that shows a prompt. Threaded so the game runs while the prompt shows.
+
 -An entity that moves your window. Threaded so the game still runs while the prompt shows.
+
 -An entity that changes your wallpaper.
 
 This gives a foundation for the 4th Wall genre of mods for Half-Life. Perhaps this can be ported to Source Engine too.
+
 The fact that this is open source allows modders to modify and/or fix the code, then be able to implement them in their mods.
 
 # [Credits]
