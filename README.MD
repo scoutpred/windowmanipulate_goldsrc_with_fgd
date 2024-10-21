@@ -69,6 +69,10 @@ If you have suggestions, corrections, violent reactions, or anything, feel free 
 
 Thank you!
 
+===
+
+From the original TWHL repo, I'm obliged to put this up
+
 # Half Life 1 SDK LICENSE
 
 Half Life 1 SDK Copyright © Valve Corp.
