@@ -1,0 +1,1034 @@
+{
+"classname" "worldspawn"
+"defaultteam" "0"
+"newunit" "0"
+"gametitle" "0"
+"startdark" "0"
+"MaxRange" "4096"
+"sounds" "1"
+"mapversion" "220"
+"wad" "\SteamLibrary\steamapps\common\Half-Life\valve\halflife.wad;\SteamLibrary\steamapps\common\Half-Life\valve\liquids.wad;\SteamLibrary\steamapps\common\Half-Life\valve\xeno.wad;\SteamLibrary\steamapps\common\Half-Life\valve\decals.wad;\SteamLibrary\steamapps\common\Half-Life\valve\zhlt.wad;\SteamLibrary\steamapps\common\Half-Life SDK\Texture Wad Files\halflife.wad;\SteamLibrary\steamapps\common\Half-Life\zhlt.wad;\SteamLibrary\steamapps\common\Half-Life\clztplayground\zhlt.wad;\SteamLibrary\steamapps\common\Half-Life\valve\decals.wad;\SteamLibrary\steamapps\common\Half-Life\valve\fonts.wad"
+"_generator" "J.A.C.K. 1.1.1064 (vpHalfLife)"
+{
+( -256 -256 32 ) ( -256 -256 0 ) ( -256 256 32 ) C1A3FLOOR02 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 256 256 32 ) ( 256 256 0 ) ( 256 -256 32 ) C1A3FLOOR02 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -256 256 32 ) ( -256 256 0 ) ( 256 256 32 ) C1A3FLOOR02 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 256 -256 32 ) ( 256 -256 0 ) ( -256 -256 32 ) C1A3FLOOR02 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 256 -256 32 ) ( -256 -256 32 ) ( 256 256 32 ) C1A3FLOOR02 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -256 256 0 ) ( -256 -256 0 ) ( 256 256 0 ) C1A3FLOOR02 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 256 256 128 ) ( 256 256 32 ) ( 256 224 128 ) FIFTIES_WALL14 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -256 224 128 ) ( -256 224 32 ) ( -256 256 128 ) FIFTIES_WALL14 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 256 224 128 ) ( 256 224 32 ) ( -256 224 128 ) FIFTIES_WALL14 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -256 256 128 ) ( -256 256 32 ) ( 256 256 128 ) FIFTIES_WALL14 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -256 256 32 ) ( -256 224 32 ) ( 256 256 32 ) FIFTIES_WALL14 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 256 224 128 ) ( -256 224 128 ) ( 256 256 128 ) FIFTIES_WALL14 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 256 -224 128 ) ( 256 -224 32 ) ( 256 -256 128 ) FIFTIES_WALL14 [ 0 1 0 96 ] [ 0 0 -1 0 ] 0 1 1
+( -256 -256 128 ) ( -256 -256 32 ) ( -256 -224 128 ) FIFTIES_WALL14 [ 0 1 0 96 ] [ 0 0 -1 0 ] 0 1 1
+( 256 -256 128 ) ( 256 -256 32 ) ( -256 -256 128 ) FIFTIES_WALL14 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -256 -224 128 ) ( -256 -224 32 ) ( 256 -224 128 ) FIFTIES_WALL14 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -256 -224 32 ) ( -256 -256 32 ) ( 256 -224 32 ) FIFTIES_WALL14 [ 1 0 0 0 ] [ 0 -1 0 -96 ] 0 1 1
+( 256 -256 128 ) ( -256 -256 128 ) ( 256 -224 128 ) FIFTIES_WALL14 [ 1 0 0 0 ] [ 0 -1 0 -96 ] 0 1 1
+}
+{
+( 224 -224 128 ) ( 224 -224 32 ) ( 224 224 128 ) FIFTIES_WALL14 [ 0 1 0 64 ] [ 0 0 -1 0 ] 0 1 1
+( 256 224 128 ) ( 256 224 32 ) ( 256 -224 128 ) FIFTIES_WALL14 [ 0 1 0 64 ] [ 0 0 -1 0 ] 0 1 1
+( 224 224 128 ) ( 224 224 32 ) ( 256 224 128 ) FIFTIES_WALL14 [ 1 0 0 -96 ] [ 0 0 -1 0 ] 0 1 1
+( 256 -224 128 ) ( 256 -224 32 ) ( 224 -224 128 ) FIFTIES_WALL14 [ 1 0 0 -96 ] [ 0 0 -1 0 ] 0 1 1
+( 256 -224 128 ) ( 224 -224 128 ) ( 256 224 128 ) FIFTIES_WALL14 [ 1 0 0 -96 ] [ 0 -1 0 -64 ] 0 1 1
+( 224 224 32 ) ( 224 -224 32 ) ( 256 224 32 ) FIFTIES_WALL14 [ 1 0 0 -96 ] [ 0 -1 0 -64 ] 0 1 1
+}
+{
+( -256 -224 128 ) ( -256 -224 32 ) ( -256 224 128 ) FIFTIES_WALL14 [ 0 1 0 64 ] [ 0 0 -1 0 ] 0 1 1
+( -224 224 128 ) ( -224 224 32 ) ( -224 -224 128 ) FIFTIES_WALL14 [ 0 1 0 64 ] [ 0 0 -1 0 ] 0 1 1
+( -256 224 128 ) ( -256 224 32 ) ( -224 224 128 ) FIFTIES_WALL14 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -224 -224 128 ) ( -224 -224 32 ) ( -256 -224 128 ) FIFTIES_WALL14 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -224 -224 128 ) ( -256 -224 128 ) ( -224 224 128 ) FIFTIES_WALL14 [ 1 0 0 0 ] [ 0 -1 0 -64 ] 0 1 1
+( -256 224 32 ) ( -256 -224 32 ) ( -224 224 32 ) FIFTIES_WALL14 [ 1 0 0 0 ] [ 0 -1 0 -64 ] 0 1 1
+}
+{
+( 224 224 160 ) ( 224 224 128 ) ( 224 -224 160 ) FIFTIES_CEIL4 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -224 -224 160 ) ( -224 -224 128 ) ( -224 224 160 ) FIFTIES_CEIL4 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 224 -224 160 ) ( 224 -224 128 ) ( -224 -224 160 ) FIFTIES_CEIL4 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -224 224 160 ) ( -224 224 128 ) ( 224 224 160 ) FIFTIES_CEIL4 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -224 224 128 ) ( -224 -224 128 ) ( 224 224 128 ) FIFTIES_CEIL4 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 224 -224 160 ) ( -224 -224 160 ) ( 224 224 160 ) FIFTIES_CEIL4 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 224 32 128 ) ( 224 32 124 ) ( 224 -32 128 ) +0~LIGHT2A [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 220 32 128 ) ( 224 32 124 ) ( 224 32 128 ) METAL_BORD01 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 224 -32 128 ) ( 220 -32 128 ) ( 224 32 128 ) +0~LIGHT2A [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 220 -32 128 ) ( 224 -32 124 ) ( 220 32 128 ) +0~LIGHT2A [ 0 1 0 32 ] [ 0 0 -1 0 ] 0 1 0.125
+( 224 -32 128 ) ( 224 -32 124 ) ( 220 -32 128 ) METAL_BORD01 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+{
+( 208 4 64 ) ( 208 4 32 ) ( 208 -4 64 ) METAL_BORD01 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 200 -4 64 ) ( 200 -4 32 ) ( 200 4 64 ) METAL_BORD01 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 208 -4 64 ) ( 208 -4 32 ) ( 200 -4 64 ) METAL_BORD01 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 200 4 64 ) ( 200 4 32 ) ( 208 4 64 ) METAL_BORD01 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 200 4 32 ) ( 200 -4 32 ) ( 208 4 32 ) METAL_BORD01 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 208 -4 64 ) ( 200 -4 64 ) ( 208 4 64 ) METAL_BORD01 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 1536 256 32 ) ( 1536 256 0 ) ( 1536 -256 32 ) C1A3FLOOR02 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 512 -256 32 ) ( 512 -256 0 ) ( 512 256 32 ) C1A3FLOOR02 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 1536 -256 32 ) ( 1536 -256 0 ) ( 512 -256 32 ) C1A3FLOOR02 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 512 256 32 ) ( 512 256 0 ) ( 1536 256 32 ) C1A3FLOOR02 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 512 256 0 ) ( 512 -256 0 ) ( 1536 256 0 ) C1A3FLOOR02 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 1536 -256 32 ) ( 512 -256 32 ) ( 1536 256 32 ) C1A3FLOOR02 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 512 -256 128 ) ( 512 -256 32 ) ( 512 -224 128 ) FIFTIES_WALL13D [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 1536 -224 128 ) ( 1536 -224 32 ) ( 1536 -256 128 ) FIFTIES_WALL13D [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 512 -224 128 ) ( 512 -224 32 ) ( 1536 -224 128 ) FIFTIES_WALL13D [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 1536 -256 128 ) ( 1536 -256 32 ) ( 512 -256 128 ) FIFTIES_WALL13D [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 1536 -256 128 ) ( 512 -256 128 ) ( 1536 -224 128 ) FIFTIES_WALL13D [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 512 -224 32 ) ( 512 -256 32 ) ( 1536 -224 32 ) FIFTIES_WALL13D [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 1216 256 128 ) ( 1216 256 32 ) ( 1216 224 128 ) FIFTIES_WALL13D [ 0 1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+( 512 224 128 ) ( 512 224 32 ) ( 512 256 128 ) FIFTIES_WALL13D [ 0 1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+( 1216 224 128 ) ( 1216 224 32 ) ( 512 224 128 ) FIFTIES_WALL13D [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 512 256 128 ) ( 512 256 32 ) ( 1216 256 128 ) FIFTIES_WALL13D [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 512 256 32 ) ( 512 224 32 ) ( 1216 256 32 ) FIFTIES_WALL13D [ 1 0 0 0 ] [ 0 -1 0 32 ] 0 1 1
+( 1216 224 128 ) ( 512 224 128 ) ( 1216 256 128 ) FIFTIES_WALL13D [ 1 0 0 0 ] [ 0 -1 0 32 ] 0 1 1
+}
+{
+( 1024 128 128 ) ( 1024 128 32 ) ( 1024 -128 128 ) FIFTIES_WALL13D [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 992 -128 128 ) ( 992 -128 32 ) ( 992 128 128 ) FIFTIES_WALL13D [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 1024 -128 128 ) ( 1024 -128 32 ) ( 992 -128 128 ) FIFTIES_WALL13D [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 992 128 128 ) ( 992 128 32 ) ( 1024 128 128 ) FIFTIES_WALL13D [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 992 128 32 ) ( 992 -128 32 ) ( 1024 128 32 ) FIFTIES_WALL13D [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 1024 -128 128 ) ( 992 -128 128 ) ( 1024 128 128 ) FIFTIES_WALL13D [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 512 -224 128 ) ( 512 -224 32 ) ( 512 224 128 ) FIFTIES_WALL13D [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 544 224 128 ) ( 544 224 32 ) ( 544 -224 128 ) FIFTIES_WALL13D [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 512 224 128 ) ( 512 224 32 ) ( 544 224 128 ) FIFTIES_WALL13D [ 1 0 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( 544 -224 128 ) ( 544 -224 32 ) ( 512 -224 128 ) FIFTIES_WALL13D [ 1 0 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( 544 -224 128 ) ( 512 -224 128 ) ( 544 224 128 ) FIFTIES_WALL13D [ 1 0 0 32 ] [ 0 -1 0 0 ] 0 1 1
+( 512 224 32 ) ( 512 -224 32 ) ( 544 224 32 ) FIFTIES_WALL13D [ 1 0 0 32 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 992 32 128 ) ( 992 32 124 ) ( 992 -32 128 ) +0~LIGHT2A [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 992 -32 128 ) ( 992 -32 124 ) ( 988 -32 128 ) METAL_BORD01 [ 1 0 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+( 992 -32 128 ) ( 988 -32 128 ) ( 992 32 128 ) +0~LIGHT2A [ 1 0 0 -0 ] [ 0 -1 0 0 ] 0 1 1
+( 988 -32 128 ) ( 992 -32 124 ) ( 988 32 128 ) +0~LIGHT2A [ 0 1 0 32 ] [ 0 0 -1 0 ] 0 1 0.125
+( 988 32 128 ) ( 992 32 124 ) ( 992 32 128 ) METAL_BORD01 [ 1 0 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+}
+{
+( 544 -224 160 ) ( 544 -224 128 ) ( 544 224 160 ) FIFTIES_CEIL4 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 1536 224 160 ) ( 1536 224 128 ) ( 1536 -224 160 ) FIFTIES_CEIL4 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 544 224 160 ) ( 544 224 128 ) ( 1536 224 160 ) FIFTIES_CEIL4 [ 1 0 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+( 1536 -224 160 ) ( 1536 -224 128 ) ( 544 -224 160 ) FIFTIES_CEIL4 [ 1 0 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+( 1536 -224 160 ) ( 544 -224 160 ) ( 1536 224 160 ) FIFTIES_CEIL4 [ 1 0 0 -0 ] [ 0 -1 0 0 ] 0 1 1
+( 544 224 128 ) ( 544 -224 128 ) ( 1536 224 128 ) FIFTIES_CEIL4 [ 1 0 0 -0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 952 -4 64 ) ( 952 -4 32 ) ( 952 4 64 ) METAL_BORD01 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 960 4 64 ) ( 960 4 32 ) ( 960 -4 64 ) METAL_BORD01 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 952 4 64 ) ( 952 4 32 ) ( 960 4 64 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 0 -1 0 ] 0 1 1
+( 960 -4 64 ) ( 960 -4 32 ) ( 952 -4 64 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 0 -1 0 ] 0 1 1
+( 960 -4 64 ) ( 952 -4 64 ) ( 960 4 64 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 -1 0 0 ] 0 1 1
+( 952 4 32 ) ( 952 -4 32 ) ( 960 4 32 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 1504 -224 128 ) ( 1504 -224 32 ) ( 1504 224 128 ) FIFTIES_WALL13D [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 1536 224 128 ) ( 1536 224 32 ) ( 1536 -224 128 ) FIFTIES_WALL13D [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 1504 224 128 ) ( 1504 224 32 ) ( 1536 224 128 ) FIFTIES_WALL13D [ 1 0 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+( 1536 -224 128 ) ( 1536 -224 32 ) ( 1504 -224 128 ) FIFTIES_WALL13D [ 1 0 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+( 1536 -224 128 ) ( 1504 -224 128 ) ( 1536 224 128 ) FIFTIES_WALL13D [ 1 0 0 -0 ] [ 0 -1 0 0 ] 0 1 1
+( 1504 224 32 ) ( 1504 -224 32 ) ( 1536 224 32 ) FIFTIES_WALL13D [ 1 0 0 -0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 1472 -60 64 ) ( 1472 -60 32 ) ( 1472 -68 64 ) METAL_BORD01 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 1464 -68 64 ) ( 1464 -68 32 ) ( 1464 -60 64 ) METAL_BORD01 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 1472 -68 64 ) ( 1472 -68 32 ) ( 1464 -68 64 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 0 -1 0 ] 0 1 1
+( 1464 -60 64 ) ( 1464 -60 32 ) ( 1472 -60 64 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 0 -1 0 ] 0 1 1
+( 1464 -60 32 ) ( 1464 -68 32 ) ( 1472 -60 32 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 -1 0 -0 ] 0 1 1
+( 1472 -68 64 ) ( 1464 -68 64 ) ( 1472 -60 64 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 -1 0 -0 ] 0 1 1
+}
+{
+( 1312 736 128 ) ( 1312 736 124 ) ( 1312 732 128 ) METAL_BORD01 [ -0 1 0 0.000183105 ] [ 0 0 -1 0 ] 0 1 1
+( 1248 736 128 ) ( 1248 736 124 ) ( 1312 736 128 ) +0~LIGHT2A [ -1 -0 0 0.00012207 ] [ 0 0 -1 0 ] 0 1 1
+( 1312 736 128 ) ( 1312 732 128 ) ( 1248 736 128 ) +0~LIGHT2A [ -0 1 0 0.000183105 ] [ 1 0 0 -0.00012207 ] 0 1 1
+( 1312 732 128 ) ( 1312 736 124 ) ( 1248 732 128 ) +0~LIGHT2A [ -1 -0 0 32.0001 ] [ 0 0 -1 0 ] 0 1 0.125
+( 1248 732 128 ) ( 1248 736 124 ) ( 1248 736 128 ) METAL_BORD01 [ -0 1 0 0.000183105 ] [ 0 0 -1 0 ] 0 1 1
+}
+{
+( 1472 36 64 ) ( 1472 36 32 ) ( 1472 28 64 ) METAL_BORD01 [ 0 1 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( 1464 28 64 ) ( 1464 28 32 ) ( 1464 36 64 ) METAL_BORD01 [ 0 1 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( 1472 28 64 ) ( 1472 28 32 ) ( 1464 28 64 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 0 -1 0 ] 0 1 1
+( 1464 36 64 ) ( 1464 36 32 ) ( 1472 36 64 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 0 -1 0 ] 0 1 1
+( 1464 36 32 ) ( 1464 28 32 ) ( 1472 36 32 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 -1 0 -32 ] 0 1 1
+( 1472 28 64 ) ( 1464 28 64 ) ( 1472 36 64 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 -1 0 -32 ] 0 1 1
+}
+{
+( 1472 -156 64 ) ( 1472 -156 32 ) ( 1472 -164 64 ) METAL_BORD01 [ 0 1 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( 1464 -164 64 ) ( 1464 -164 32 ) ( 1464 -156 64 ) METAL_BORD01 [ 0 1 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( 1472 -164 64 ) ( 1472 -164 32 ) ( 1464 -164 64 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 0 -1 0 ] 0 1 1
+( 1464 -156 64 ) ( 1464 -156 32 ) ( 1472 -156 64 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 0 -1 0 ] 0 1 1
+( 1464 -156 32 ) ( 1464 -164 32 ) ( 1472 -156 32 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 -1 0 -32 ] 0 1 1
+( 1472 -164 64 ) ( 1464 -164 64 ) ( 1472 -156 64 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 -1 0 -32 ] 0 1 1
+}
+{
+( 1472 132 64 ) ( 1472 132 32 ) ( 1472 124 64 ) METAL_BORD01 [ 0 1 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+( 1464 124 64 ) ( 1464 124 32 ) ( 1464 132 64 ) METAL_BORD01 [ 0 1 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+( 1472 124 64 ) ( 1472 124 32 ) ( 1464 124 64 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 0 -1 0 ] 0 1 1
+( 1464 132 64 ) ( 1464 132 32 ) ( 1472 132 64 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 0 -1 0 ] 0 1 1
+( 1464 132 32 ) ( 1464 124 32 ) ( 1472 132 32 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 -1 0 0 ] 0 1 1
+( 1472 124 64 ) ( 1464 124 64 ) ( 1472 132 64 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 1536 256 128 ) ( 1536 256 32 ) ( 1536 224 128 ) FIFTIES_WALL13D [ 0 1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+( 1344 224 128 ) ( 1344 224 32 ) ( 1344 256 128 ) FIFTIES_WALL13D [ 0 1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+( 1536 224 128 ) ( 1536 224 32 ) ( 1344 224 128 ) FIFTIES_WALL13D [ 1 0 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+( 1344 256 128 ) ( 1344 256 32 ) ( 1536 256 128 ) FIFTIES_WALL13D [ 1 0 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+( 1344 256 32 ) ( 1344 224 32 ) ( 1536 256 32 ) FIFTIES_WALL13D [ 1 0 0 -0 ] [ 0 -1 0 32 ] 0 1 1
+( 1536 224 128 ) ( 1344 224 128 ) ( 1536 256 128 ) FIFTIES_WALL13D [ 1 0 0 -0 ] [ 0 -1 0 32 ] 0 1 1
+}
+{
+( 1536 768 32 ) ( 1536 768 0 ) ( 1536 256 32 ) C1A3FLOOR02 [ 0 1 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+( 1024 256 32 ) ( 1024 256 0 ) ( 1024 768 32 ) C1A3FLOOR02 [ 0 1 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+( 1536 256 32 ) ( 1536 256 0 ) ( 1024 256 32 ) C1A3FLOOR02 [ 1 0 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+( 1024 768 32 ) ( 1024 768 0 ) ( 1536 768 32 ) C1A3FLOOR02 [ 1 0 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+( 1024 768 0 ) ( 1024 256 0 ) ( 1536 768 0 ) C1A3FLOOR02 [ 1 0 0 -0 ] [ 0 -1 0 0 ] 0 1 1
+( 1536 256 32 ) ( 1024 256 32 ) ( 1536 768 32 ) C1A3FLOOR02 [ 1 0 0 -0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 1536 768 128 ) ( 1536 768 32 ) ( 1536 256 128 ) FIFTIES_WALL13D [ 0 1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+( 1504 256 128 ) ( 1504 256 32 ) ( 1504 768 128 ) FIFTIES_WALL13D [ 0 1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+( 1536 256 128 ) ( 1536 256 32 ) ( 1504 256 128 ) FIFTIES_WALL13D [ 1 0 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+( 1504 768 128 ) ( 1504 768 32 ) ( 1536 768 128 ) FIFTIES_WALL13D [ 1 0 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+( 1504 768 32 ) ( 1504 256 32 ) ( 1536 768 32 ) FIFTIES_WALL13D [ 1 0 0 -0 ] [ 0 -1 0 32 ] 0 1 1
+( 1536 256 128 ) ( 1504 256 128 ) ( 1536 768 128 ) FIFTIES_WALL13D [ 1 0 0 -0 ] [ 0 -1 0 32 ] 0 1 1
+}
+{
+( 1024 256 128 ) ( 1024 256 32 ) ( 1024 768 128 ) FIFTIES_WALL13D [ 0 1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+( 1056 768 128 ) ( 1056 768 32 ) ( 1056 256 128 ) FIFTIES_WALL13D [ 0 1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+( 1024 768 128 ) ( 1024 768 32 ) ( 1056 768 128 ) FIFTIES_WALL13D [ 1 0 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( 1056 256 128 ) ( 1056 256 32 ) ( 1024 256 128 ) FIFTIES_WALL13D [ 1 0 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( 1056 256 128 ) ( 1024 256 128 ) ( 1056 768 128 ) FIFTIES_WALL13D [ 1 0 0 32 ] [ 0 -1 0 32 ] 0 1 1
+( 1024 768 32 ) ( 1024 256 32 ) ( 1056 768 32 ) FIFTIES_WALL13D [ 1 0 0 32 ] [ 0 -1 0 32 ] 0 1 1
+}
+{
+( 1504 768 160 ) ( 1504 768 128 ) ( 1504 224 160 ) FIFTIES_CEIL4 [ 0 1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+( 1056 224 160 ) ( 1056 224 128 ) ( 1056 768 160 ) FIFTIES_CEIL4 [ 0 1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+( 1504 224 160 ) ( 1504 224 128 ) ( 1056 224 160 ) FIFTIES_CEIL4 [ 1 0 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+( 1056 768 160 ) ( 1056 768 128 ) ( 1504 768 160 ) FIFTIES_CEIL4 [ 1 0 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+( 1056 768 128 ) ( 1056 224 128 ) ( 1504 768 128 ) FIFTIES_CEIL4 [ 1 0 0 -0 ] [ 0 -1 0 32 ] 0 1 1
+( 1504 224 160 ) ( 1056 224 160 ) ( 1504 768 160 ) FIFTIES_CEIL4 [ 1 0 0 -0 ] [ 0 -1 0 32 ] 0 1 1
+}
+{
+( 1056 736 128 ) ( 1056 736 32 ) ( 1056 768 128 ) FIFTIES_WALL13D [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 1504 768 128 ) ( 1504 768 32 ) ( 1504 736 128 ) FIFTIES_WALL13D [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 1056 768 128 ) ( 1056 768 32 ) ( 1504 768 128 ) FIFTIES_WALL13D [ 1 0 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( 1504 736 128 ) ( 1504 736 32 ) ( 1056 736 128 ) FIFTIES_WALL13D [ 1 0 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( 1504 736 128 ) ( 1056 736 128 ) ( 1504 768 128 ) FIFTIES_WALL13D [ 1 0 0 32 ] [ 0 -1 0 0 ] 0 1 1
+( 1056 768 32 ) ( 1056 736 32 ) ( 1504 768 32 ) FIFTIES_WALL13D [ 1 0 0 32 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 1156 708 64 ) ( 1156 708 32 ) ( 1156 700 64 ) METAL_BORD01 [ -0 1 0 12.0002 ] [ 0 0 -1 0 ] 0 1 1
+( 1148 700 64 ) ( 1148 700 32 ) ( 1148 708 64 ) METAL_BORD01 [ -0 1 0 12.0002 ] [ 0 0 -1 0 ] 0 1 1
+( 1148 708 64 ) ( 1148 708 32 ) ( 1156 708 64 ) METAL_BORD01 [ -1 -0 0 0.000126839 ] [ 0 0 -1 0 ] 0 1 1
+( 1156 700 64 ) ( 1156 700 32 ) ( 1148 700 64 ) METAL_BORD01 [ -1 -0 0 0.000126839 ] [ 0 0 -1 0 ] 0 1 1
+( 1148 700 32 ) ( 1156 700 32 ) ( 1148 708 32 ) METAL_BORD01 [ -0 1 0 12.0002 ] [ 1 0 0 -0.000126839 ] 0 1 1
+( 1156 708 64 ) ( 1156 700 64 ) ( 1148 708 64 ) METAL_BORD01 [ -0 1 0 12.0002 ] [ 1 0 0 -0.000126839 ] 0 1 1
+}
+{
+( 1504 32 128 ) ( 1504 32 124 ) ( 1504 -32 128 ) +0~LIGHT2A [ -0 1 0 0.000244141 ] [ 0 0 -1 0 ] 0 1 1
+( 1504 -32 128 ) ( 1504 -32 124 ) ( 1500 -32 128 ) METAL_BORD01 [ 1 0 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+( 1504 -32 128 ) ( 1500 -32 128 ) ( 1504 32 128 ) +0~LIGHT2A [ 1 0 0 -0 ] [ 0 -1 0 31.9998 ] 0 1 1
+( 1500 -32 128 ) ( 1504 -32 124 ) ( 1500 32 128 ) +0~LIGHT2A [ -0 1 0 -31.9998 ] [ 0 0 -1 0 ] 0 1 0.125
+( 1500 32 128 ) ( 1504 32 124 ) ( 1504 32 128 ) METAL_BORD01 [ 1 0 0 -0 ] [ 0 0 -1 0 ] 0 1 1
+}
+{
+( 1284 708 64 ) ( 1284 708 32 ) ( 1284 700 64 ) METAL_BORD01 [ -0 1 0 12.0002 ] [ 0 0 -1 0 ] 0 1 1
+( 1276 700 64 ) ( 1276 700 32 ) ( 1276 708 64 ) METAL_BORD01 [ -0 1 0 12.0002 ] [ 0 0 -1 0 ] 0 1 1
+( 1276 708 64 ) ( 1276 708 32 ) ( 1284 708 64 ) METAL_BORD01 [ -1 -0 0 0.00012207 ] [ 0 0 -1 0 ] 0 1 1
+( 1284 700 64 ) ( 1284 700 32 ) ( 1276 700 64 ) METAL_BORD01 [ -1 -0 0 0.00012207 ] [ 0 0 -1 0 ] 0 1 1
+( 1276 700 32 ) ( 1284 700 32 ) ( 1276 708 32 ) METAL_BORD01 [ -0 1 0 12.0002 ] [ 1 0 0 -0.00012207 ] 0 1 1
+( 1284 708 64 ) ( 1284 700 64 ) ( 1276 708 64 ) METAL_BORD01 [ -0 1 0 12.0002 ] [ 1 0 0 -0.00012207 ] 0 1 1
+}
+{
+( 1404 700 64 ) ( 1404 700 32 ) ( 1404 708 64 ) METAL_BORD01 [ -0 1 0 12.0002 ] [ 0 0 -1 0 ] 0 1 1
+( 1412 708 64 ) ( 1412 708 32 ) ( 1412 700 64 ) METAL_BORD01 [ -0 1 0 12.0002 ] [ 0 0 -1 0 ] 0 1 1
+( 1412 700 64 ) ( 1412 700 32 ) ( 1404 700 64 ) METAL_BORD01 [ -1 -0 0 0.00012207 ] [ 0 0 -1 0 ] 0 1 1
+( 1404 708 64 ) ( 1404 708 32 ) ( 1412 708 64 ) METAL_BORD01 [ -1 -0 0 0.00012207 ] [ 0 0 -1 0 ] 0 1 1
+( 1412 708 64 ) ( 1412 700 64 ) ( 1404 708 64 ) METAL_BORD01 [ -0 1 0 12.0002 ] [ 1 0 0 -0.00012207 ] 0 1 1
+( 1404 700 32 ) ( 1412 700 32 ) ( 1404 708 32 ) METAL_BORD01 [ -0 1 0 12.0002 ] [ 1 0 0 -0.00012207 ] 0 1 1
+}
+}
+{
+"classname" "info_player_start"
+"angles" "0 0 0"
+"origin" "-6.10352e-005 -2.38419e-007 67"
+}
+{
+"classname" "light"
+"_falloff" "0"
+"_fade" "1.0"
+"style" "0"
+"_light" "255 255 128 200"
+"angles" "0 0 0"
+"origin" "212 2 116"
+}
+{
+"classname" "game_text"
+"channel" "1"
+"fxtime" "0.25"
+"holdtime" "3"
+"fadeout" "0.5"
+"fadein" "1.5"
+"color2" "240 110 0"
+"color" "100 100 100"
+"effect" "0"
+"y" "-1"
+"x" "-1"
+"targetname" "recommend1"
+"message" "DON'T PRESS THE BUTTON YET! \n \n Consider running this game in windowed mode at 800x600."
+"origin" "160 64 64"
+}
+{
+"classname" "trigger_once"
+"delay" "0"
+"sounds" "0"
+"target" "text"
+{
+( 136 -32 128 ) ( 136 -32 32 ) ( 136 32 128 ) AAATRIGGER [ 0 1 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( 200 32 128 ) ( 200 32 32 ) ( 200 -32 128 ) AAATRIGGER [ 0 1 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( 136 32 128 ) ( 136 32 32 ) ( 200 32 128 ) AAATRIGGER [ 1 0 0 -8 ] [ 0 0 -1 -12 ] 0 1 1
+( 200 -32 128 ) ( 200 -32 32 ) ( 136 -32 128 ) AAATRIGGER [ 1 0 0 -8 ] [ 0 0 -1 -12 ] 0 1 1
+( 200 -32 128 ) ( 136 -32 128 ) ( 200 32 128 ) AAATRIGGER [ 1 0 0 -8 ] [ 0 -1 0 0 ] 0 1 1
+( 136 32 32 ) ( 136 -32 32 ) ( 200 32 32 ) AAATRIGGER [ 1 0 0 -8 ] [ 0 -1 0 0 ] 0 1 1
+}
+}
+{
+"classname" "multi_manager"
+"TriggerCondition" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"targetname" "tp"
+"fadeblack" "0"
+"tp_go" "2"
+"fadeback" "3"
+"origin" "182 150 68"
+}
+{
+"classname" "func_button"
+"spawnflags" "1"
+"unlocked_sentence" "0"
+"locked_sentence" "0"
+"unlocked_sound" "0"
+"locked_sound" "0"
+"delay" "0"
+"wait" "-1"
+"sounds" "0"
+"speed" "5"
+"zhlt_lightflags" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"target" "tp"
+{
+( 208 4 72 ) ( 208 4 64 ) ( 208 -4 72 ) METAL_BORD01 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 200 -4 72 ) ( 200 -4 64 ) ( 200 4 72 ) +0BUTTON3 [ 0 1 0 16 ] [ 0 0 -1 0 ] 0 0.25 0.25
+( 208 -4 72 ) ( 208 -4 64 ) ( 200 -4 72 ) METAL_BORD01 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 200 4 72 ) ( 200 4 64 ) ( 208 4 72 ) METAL_BORD01 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 200 4 64 ) ( 200 -4 64 ) ( 208 4 64 ) +0BUTTON3 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 208 -4 72 ) ( 200 -4 72 ) ( 208 4 72 ) METAL_BORD01 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+}
+{
+"classname" "light"
+"_falloff" "0"
+"_fade" "1.0"
+"style" "0"
+"_light" "255 255 128 200"
+"angles" "0 0 0"
+"origin" "980 2 116"
+}
+{
+"classname" "env_fade"
+"texture" "sprites/laserbeam.spr"
+"spawnflags" "0"
+"rendercolor" "0 0 0"
+"renderamt" "255"
+"holdtime" "3"
+"duration" "1"
+"damage" "0"
+"StrikeTime" "1"
+"framestart" "0"
+"framerate" "0"
+"TextureScroll" "35"
+"NoiseAmplitude" "0"
+"BoltWidth" "20"
+"life" "1"
+"Radius" "256"
+"renderfx" "0"
+"angles" "0 0 0"
+"targetname" "fadeblack"
+"origin" "144 160 68"
+}
+{
+"classname" "info_teleport_destination"
+"angles" "0 0 0"
+"targetname" "tp_end"
+"origin" "640 0 40"
+}
+{
+"classname" "trigger_teleport"
+"delay" "0"
+"sounds" "0"
+"targetname" "tp_start"
+"master" "tp_go"
+"target" "tp_end"
+{
+( 224 224 128 ) ( 224 224 32 ) ( 224 -224 128 ) AAATRIGGER [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -224 -224 128 ) ( -224 -224 32 ) ( -224 224 128 ) AAATRIGGER [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 224 -224 128 ) ( 224 -224 32 ) ( -224 -224 128 ) AAATRIGGER [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -224 224 128 ) ( -224 224 32 ) ( 224 224 128 ) AAATRIGGER [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -224 224 32 ) ( -224 -224 32 ) ( 224 224 32 ) AAATRIGGER [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 224 -224 128 ) ( -224 -224 128 ) ( 224 224 128 ) AAATRIGGER [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+}
+{
+"classname" "multisource"
+"TriggerCondition" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"targetname" "tp_go"
+"origin" "189 192 64"
+}
+{
+"classname" "env_fade"
+"texture" "sprites/laserbeam.spr"
+"spawnflags" "1"
+"rendercolor" "0 0 0"
+"renderamt" "255"
+"holdtime" "1"
+"duration" "1"
+"damage" "0"
+"StrikeTime" "1"
+"framestart" "0"
+"framerate" "0"
+"TextureScroll" "35"
+"NoiseAmplitude" "0"
+"BoltWidth" "20"
+"life" "1"
+"Radius" "256"
+"renderfx" "0"
+"angles" "0 0 0"
+"targetname" "fadeback"
+"origin" "128 160 64"
+}
+{
+"classname" "func_button"
+"spawnflags" "1"
+"unlocked_sentence" "0"
+"locked_sentence" "0"
+"unlocked_sound" "0"
+"locked_sound" "0"
+"delay" "0"
+"wait" "3"
+"sounds" "0"
+"speed" "5"
+"zhlt_lightflags" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"target" "prompt"
+{
+( 960 4 72 ) ( 960 4 64 ) ( 960 -4 72 ) METAL_BORD01 [ 0 1 0 0 ] [ 0 0 -1 32 ] 0 1 1
+( 952 -4 72 ) ( 952 -4 64 ) ( 952 4 72 ) +0BUTTON3 [ 0 1 0 16 ] [ 0 0 -1 0 ] 0 0.25 0.25
+( 960 -4 72 ) ( 960 -4 64 ) ( 952 -4 72 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 0 -1 32 ] 0 1 1
+( 952 4 72 ) ( 952 4 64 ) ( 960 4 72 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 0 -1 32 ] 0 1 1
+( 952 4 64 ) ( 952 -4 64 ) ( 960 4 64 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 -1 0 0 ] 0 1 1
+( 960 -4 72 ) ( 952 -4 72 ) ( 960 4 72 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 -1 0 0 ] 0 1 1
+}
+}
+{
+"classname" "trigger_msgbox"
+"targetname" "prompt"
+"message" "Message Text here."
+"WinTitle" "This is the Message Title Box"
+"origin" "968 208 85"
+}
+{
+"classname" "multi_manager"
+"TriggerCondition" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"targetname" "text"
+"recommend1" "0"
+"recommend2" "6"
+"origin" "184 104 68"
+}
+{
+"classname" "game_text"
+"channel" "1"
+"fxtime" "0.25"
+"holdtime" "6"
+"fadeout" "0.5"
+"fadein" "1.5"
+"color2" "240 110 0"
+"color" "100 100 100"
+"effect" "0"
+"y" "-1"
+"x" "-1"
+"targetname" "recommend2"
+"message" "If you have Wallpaper Engine, quit it for the meantime.\n Also, backup your wallpapers you're using, just in case. \n \n You may press the button to proceed if ready."
+"origin" "184 64 64"
+}
+{
+"classname" "trigger_once"
+"delay" "0"
+"sounds" "0"
+"target" "text2"
+"targetname" "prompt_demo"
+{
+( 832 224 128 ) ( 832 224 32 ) ( 832 -224 128 ) AAATRIGGER [ 0 1 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( 768 -224 128 ) ( 768 -224 32 ) ( 768 224 128 ) AAATRIGGER [ 0 1 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( 832 -224 128 ) ( 832 -224 32 ) ( 768 -224 128 ) AAATRIGGER [ 1 0 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( 768 224 128 ) ( 768 224 32 ) ( 832 224 128 ) AAATRIGGER [ 1 0 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( 768 224 32 ) ( 768 -224 32 ) ( 832 224 32 ) AAATRIGGER [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 832 -224 128 ) ( 768 -224 128 ) ( 832 224 128 ) AAATRIGGER [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+}
+{
+"classname" "game_text"
+"channel" "1"
+"fxtime" "0.25"
+"holdtime" "10"
+"fadeout" "0.5"
+"fadein" "1.5"
+"color2" "240 110 0"
+"color" "100 100 100"
+"effect" "0"
+"y" "-1"
+"x" "-1"
+"teamindex" "-1"
+"triggerstate" "0"
+"delay" "0"
+"health" "10"
+"frags" "0"
+"angles" "0 0 0"
+"message" "This button allows you to show a prompt. \n \n The entity [trigger_msgbox] has three properties. \n Name, obviously the entity name for targets. \n Message Text - The message in the prompt \n Message Box Title - The title of the prompt window. \n \n Try pushing the button what it does."
+"targetname" "text2"
+"origin" "934 96 68"
+}
+{
+"classname" "func_button"
+"spawnflags" "1"
+"unlocked_sentence" "0"
+"locked_sentence" "0"
+"unlocked_sound" "0"
+"locked_sound" "0"
+"delay" "0"
+"wait" "3"
+"sounds" "0"
+"speed" "5"
+"zhlt_lightflags" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"target" "eout"
+{
+( 1464 -68 72 ) ( 1464 -68 64 ) ( 1464 -60 72 ) +0BUTTON3 [ 0 1 0 16 ] [ 0 0 -1 0 ] 0 0.25 0.25
+( 1472 -60 72 ) ( 1472 -60 64 ) ( 1472 -68 72 ) METAL_BORD01 [ 0 1 0 0 ] [ 0 0 -1 32 ] 0 1 1
+( 1464 -60 72 ) ( 1464 -60 64 ) ( 1472 -60 72 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 0 -1 32 ] 0 1 1
+( 1472 -68 72 ) ( 1472 -68 64 ) ( 1464 -68 72 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 0 -1 32 ] 0 1 1
+( 1472 -68 72 ) ( 1464 -68 72 ) ( 1472 -60 72 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 -1 0 -0 ] 0 1 1
+( 1464 -60 64 ) ( 1464 -68 64 ) ( 1472 -60 64 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 -1 0 -0 ] 0 1 1
+}
+}
+{
+"classname" "light"
+"_falloff" "0"
+"_fade" "1.0"
+"style" "0"
+"_light" "255 255 128 200"
+"angles" "0 90 0"
+"origin" "1278 724 116"
+}
+{
+"classname" "func_button"
+"spawnflags" "1"
+"unlocked_sentence" "0"
+"locked_sentence" "0"
+"unlocked_sound" "0"
+"locked_sound" "0"
+"delay" "0"
+"wait" "3"
+"sounds" "0"
+"speed" "5"
+"zhlt_lightflags" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"target" "ein"
+{
+( 1464 28 72 ) ( 1464 28 64 ) ( 1464 36 72 ) +0BUTTON3 [ 0 1 0 16 ] [ 0 0 -1 0 ] 0 0.25 0.25
+( 1472 36 72 ) ( 1472 36 64 ) ( 1472 28 72 ) METAL_BORD01 [ 0 1 0 32 ] [ 0 0 -1 32 ] 0 1 1
+( 1464 36 72 ) ( 1464 36 64 ) ( 1472 36 72 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 0 -1 32 ] 0 1 1
+( 1472 28 72 ) ( 1472 28 64 ) ( 1464 28 72 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 0 -1 32 ] 0 1 1
+( 1472 28 72 ) ( 1464 28 72 ) ( 1472 36 72 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 -1 0 -32 ] 0 1 1
+( 1464 36 64 ) ( 1464 28 64 ) ( 1472 36 64 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 -1 0 -32 ] 0 1 1
+}
+}
+{
+"classname" "trigger_once"
+"delay" "0"
+"sounds" "0"
+"target" "text3"
+"targetname" "move_demo"
+{
+( 1024 -224 128 ) ( 1024 -224 32 ) ( 1024 224 128 ) AAATRIGGER [ 0 1 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( 1088 224 128 ) ( 1088 224 32 ) ( 1088 -224 128 ) AAATRIGGER [ 0 1 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( 1024 224 128 ) ( 1024 224 32 ) ( 1088 224 128 ) AAATRIGGER [ 1 0 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( 1088 -224 128 ) ( 1088 -224 32 ) ( 1024 -224 128 ) AAATRIGGER [ 1 0 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( 1088 -224 128 ) ( 1024 -224 128 ) ( 1088 224 128 ) AAATRIGGER [ 1 0 0 0 ] [ 0 -1 0 -0 ] 0 1 1
+( 1024 224 32 ) ( 1024 -224 32 ) ( 1088 224 32 ) AAATRIGGER [ 1 0 0 0 ] [ 0 -1 0 -0 ] 0 1 1
+}
+}
+{
+"classname" "func_button"
+"spawnflags" "1"
+"unlocked_sentence" "0"
+"locked_sentence" "0"
+"unlocked_sound" "0"
+"locked_sound" "0"
+"delay" "0"
+"wait" "3"
+"sounds" "0"
+"speed" "5"
+"zhlt_lightflags" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"target" "einout"
+{
+( 1464 -164 72 ) ( 1464 -164 64 ) ( 1464 -156 72 ) +0BUTTON3 [ 0 1 0 16 ] [ 0 0 -1 0 ] 0 0.25 0.25
+( 1472 -156 72 ) ( 1472 -156 64 ) ( 1472 -164 72 ) METAL_BORD01 [ 0 1 0 32 ] [ 0 0 -1 32 ] 0 1 1
+( 1464 -156 72 ) ( 1464 -156 64 ) ( 1472 -156 72 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 0 -1 32 ] 0 1 1
+( 1472 -164 72 ) ( 1472 -164 64 ) ( 1464 -164 72 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 0 -1 32 ] 0 1 1
+( 1472 -164 72 ) ( 1464 -164 72 ) ( 1472 -156 72 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 -1 0 -32 ] 0 1 1
+( 1464 -156 64 ) ( 1464 -164 64 ) ( 1472 -156 64 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 -1 0 -32 ] 0 1 1
+}
+}
+{
+"classname" "func_button"
+"spawnflags" "1"
+"unlocked_sentence" "0"
+"locked_sentence" "0"
+"unlocked_sound" "0"
+"locked_sound" "0"
+"delay" "0"
+"wait" "3"
+"sounds" "0"
+"speed" "5"
+"zhlt_lightflags" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"target" "lin"
+{
+( 1464 124 72 ) ( 1464 124 64 ) ( 1464 132 72 ) +0BUTTON3 [ 0 1 0 -16 ] [ 0 0 -1 0 ] 0 0.25 0.25
+( 1472 132 72 ) ( 1472 132 64 ) ( 1472 124 72 ) METAL_BORD01 [ 0 1 0 -0 ] [ 0 0 -1 32 ] 0 1 1
+( 1464 132 72 ) ( 1464 132 64 ) ( 1472 132 72 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 0 -1 32 ] 0 1 1
+( 1472 124 72 ) ( 1472 124 64 ) ( 1464 124 72 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 0 -1 32 ] 0 1 1
+( 1472 124 72 ) ( 1464 124 72 ) ( 1472 132 72 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 -1 0 0 ] 0 1 1
+( 1464 132 64 ) ( 1464 124 64 ) ( 1472 132 64 ) METAL_BORD01 [ 1 0 0 -48 ] [ 0 -1 0 0 ] 0 1 1
+}
+}
+{
+"classname" "game_text"
+"channel" "1"
+"fxtime" "0.25"
+"holdtime" "10"
+"fadeout" "0.5"
+"fadein" "1.5"
+"color2" "240 110 0"
+"color" "100 100 100"
+"effect" "0"
+"y" "-1"
+"x" "-1"
+"teamindex" "-1"
+"triggerstate" "0"
+"delay" "0"
+"health" "10"
+"frags" "0"
+"angles" "0 0 0"
+"message" "This demonstrates window movement. \n Each button has its own easing. \n Refer to Entity Help in your map editor for \n properties and values."
+"targetname" "text3"
+"origin" "1248 96 68"
+}
+{
+"classname" "window_mover"
+"easingType" "0"
+"duration" "2000"
+"targetY" "100"
+"targetX" "100"
+"targetname" "lin"
+"origin" "1496 128 96"
+}
+{
+"classname" "window_mover"
+"easingType" "1"
+"duration" "2000"
+"targetY" "400"
+"targetX" "100"
+"targetname" "ein"
+"origin" "1496 32 96"
+}
+{
+"classname" "window_mover"
+"easingType" "2"
+"duration" "2000"
+"targetY" "400"
+"targetX" "300"
+"targetname" "eout"
+"origin" "1496 -64 96"
+}
+{
+"classname" "window_mover"
+"easingType" "3"
+"duration" "2000"
+"targetY" "100"
+"targetX" "300"
+"targetname" "einout"
+"origin" "1496 -160 96"
+}
+{
+"classname" "trigger_multiple"
+"wait" "0"
+"delay" "0"
+"sounds" "0"
+"target" "lintext"
+"targetname" "lin_demo"
+{
+( 1400 96 128 ) ( 1400 96 32 ) ( 1400 160 128 ) AAATRIGGER [ 0 1 0 -0 ] [ 0 0 -1 -12 ] 0 1 1
+( 1464 160 128 ) ( 1464 160 32 ) ( 1464 96 128 ) AAATRIGGER [ 0 1 0 -0 ] [ 0 0 -1 -12 ] 0 1 1
+( 1400 160 128 ) ( 1400 160 32 ) ( 1464 160 128 ) AAATRIGGER [ 1 0 0 -8 ] [ 0 0 -1 -12 ] 0 1 1
+( 1464 96 128 ) ( 1464 96 32 ) ( 1400 96 128 ) AAATRIGGER [ 1 0 0 -8 ] [ 0 0 -1 -12 ] 0 1 1
+( 1464 96 128 ) ( 1400 96 128 ) ( 1464 160 128 ) AAATRIGGER [ 1 0 0 -8 ] [ 0 -1 0 0 ] 0 1 1
+( 1400 160 32 ) ( 1400 96 32 ) ( 1464 160 32 ) AAATRIGGER [ 1 0 0 -8 ] [ 0 -1 0 0 ] 0 1 1
+}
+}
+{
+"classname" "game_text"
+"channel" "1"
+"fxtime" "0.25"
+"holdtime" "1.2"
+"fadeout" "0.5"
+"fadein" "0"
+"color2" "240 110 0"
+"color" "100 100 100"
+"effect" "0"
+"y" "-1"
+"x" "-1"
+"teamindex" "-1"
+"triggerstate" "0"
+"delay" "0"
+"health" "10"
+"frags" "0"
+"_falloff" "0"
+"_fade" "1.0"
+"style" "0"
+"_light" "255 255 128 200"
+"angles" "0 0 0"
+"targetname" "lintext"
+"message" "Linear"
+"origin" "1393 108 68"
+}
+{
+"classname" "game_text"
+"channel" "1"
+"fxtime" "0.25"
+"holdtime" "1.2"
+"fadeout" "0.5"
+"fadein" "0"
+"color2" "240 110 0"
+"color" "100 100 100"
+"effect" "0"
+"y" "-1"
+"x" "-1"
+"teamindex" "-1"
+"triggerstate" "0"
+"delay" "0"
+"health" "10"
+"frags" "0"
+"_falloff" "0"
+"_fade" "1.0"
+"style" "0"
+"_light" "255 255 128 200"
+"angles" "0 0 0"
+"targetname" "eintext"
+"message" "Ease In"
+"origin" "1392 12 68"
+}
+{
+"classname" "trigger_multiple"
+"wait" "0"
+"delay" "0"
+"sounds" "0"
+"target" "eintext"
+"targetname" "ein_demo"
+{
+( 1399 0 128 ) ( 1399 0 32 ) ( 1399 64 128 ) AAATRIGGER [ 0 1 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( 1463 64 128 ) ( 1463 64 32 ) ( 1463 0 128 ) AAATRIGGER [ 0 1 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( 1399 64 128 ) ( 1399 64 32 ) ( 1463 64 128 ) AAATRIGGER [ 1 0 0 -7 ] [ 0 0 -1 -12 ] 0 1 1
+( 1463 0 128 ) ( 1463 0 32 ) ( 1399 0 128 ) AAATRIGGER [ 1 0 0 -7 ] [ 0 0 -1 -12 ] 0 1 1
+( 1463 0 128 ) ( 1399 0 128 ) ( 1463 64 128 ) AAATRIGGER [ 1 0 0 -7 ] [ 0 -1 0 -0 ] 0 1 1
+( 1399 64 32 ) ( 1399 0 32 ) ( 1463 64 32 ) AAATRIGGER [ 1 0 0 -7 ] [ 0 -1 0 -0 ] 0 1 1
+}
+}
+{
+"classname" "game_text"
+"channel" "1"
+"fxtime" "0.25"
+"holdtime" "1.2"
+"fadeout" "0.5"
+"fadein" "0"
+"color2" "240 110 0"
+"color" "100 100 100"
+"effect" "0"
+"y" "-1"
+"x" "-1"
+"teamindex" "-1"
+"triggerstate" "0"
+"delay" "0"
+"health" "10"
+"frags" "0"
+"_falloff" "0"
+"_fade" "1.0"
+"style" "0"
+"_light" "255 255 128 200"
+"angles" "0 0 0"
+"targetname" "eouttext"
+"message" "Ease Out "
+"origin" "1393 -84 68"
+}
+{
+"classname" "trigger_multiple"
+"wait" "0"
+"delay" "0"
+"sounds" "0"
+"target" "eouttext"
+"targetname" "eout_demo"
+{
+( 1400 -96 128 ) ( 1400 -96 32 ) ( 1400 -32 128 ) AAATRIGGER [ 0 1 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( 1464 -32 128 ) ( 1464 -32 32 ) ( 1464 -96 128 ) AAATRIGGER [ 0 1 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( 1400 -32 128 ) ( 1400 -32 32 ) ( 1464 -32 128 ) AAATRIGGER [ 1 0 0 -8 ] [ 0 0 -1 -12 ] 0 1 1
+( 1464 -96 128 ) ( 1464 -96 32 ) ( 1400 -96 128 ) AAATRIGGER [ 1 0 0 -8 ] [ 0 0 -1 -12 ] 0 1 1
+( 1464 -96 128 ) ( 1400 -96 128 ) ( 1464 -32 128 ) AAATRIGGER [ 1 0 0 -8 ] [ 0 -1 0 -0 ] 0 1 1
+( 1400 -32 32 ) ( 1400 -96 32 ) ( 1464 -32 32 ) AAATRIGGER [ 1 0 0 -8 ] [ 0 -1 0 -0 ] 0 1 1
+}
+}
+{
+"classname" "trigger_multiple"
+"wait" "0"
+"delay" "0"
+"sounds" "0"
+"target" "einouttext"
+"targetname" "lin_demo"
+{
+( 1399 -192 128 ) ( 1399 -192 32 ) ( 1399 -128 128 ) AAATRIGGER [ 0 1 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( 1463 -128 128 ) ( 1463 -128 32 ) ( 1463 -192 128 ) AAATRIGGER [ 0 1 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( 1399 -128 128 ) ( 1399 -128 32 ) ( 1463 -128 128 ) AAATRIGGER [ 1 0 0 -7 ] [ 0 0 -1 -12 ] 0 1 1
+( 1463 -192 128 ) ( 1463 -192 32 ) ( 1399 -192 128 ) AAATRIGGER [ 1 0 0 -7 ] [ 0 0 -1 -12 ] 0 1 1
+( 1463 -192 128 ) ( 1399 -192 128 ) ( 1463 -128 128 ) AAATRIGGER [ 1 0 0 -7 ] [ 0 -1 0 -0 ] 0 1 1
+( 1399 -128 32 ) ( 1399 -192 32 ) ( 1463 -128 32 ) AAATRIGGER [ 1 0 0 -7 ] [ 0 -1 0 -0 ] 0 1 1
+}
+}
+{
+"classname" "game_text"
+"channel" "1"
+"fxtime" "0.25"
+"holdtime" "1.2"
+"fadeout" "0.5"
+"fadein" "0"
+"color2" "240 110 0"
+"color" "100 100 100"
+"effect" "0"
+"y" "-1"
+"x" "-1"
+"teamindex" "-1"
+"triggerstate" "0"
+"delay" "0"
+"health" "10"
+"frags" "0"
+"_falloff" "0"
+"_fade" "1.0"
+"style" "0"
+"_light" "255 255 128 200"
+"angles" "0 0 0"
+"targetname" "einouttext"
+"message" "Ease In and Out"
+"origin" "1392 -180 68"
+}
+{
+"classname" "trigger_once"
+"delay" "0"
+"sounds" "0"
+"target" "text4"
+{
+( 1504 320 128 ) ( 1504 320 32 ) ( 1504 256 128 ) AAATRIGGER [ 0 1 0 -0 ] [ 0 0 -1 -12 ] 0 1 1
+( 1056 256 128 ) ( 1056 256 32 ) ( 1056 320 128 ) AAATRIGGER [ 0 1 0 -0 ] [ 0 0 -1 -12 ] 0 1 1
+( 1504 256 128 ) ( 1504 256 32 ) ( 1056 256 128 ) AAATRIGGER [ 1 0 0 -0 ] [ 0 0 -1 -12 ] 0 1 1
+( 1056 320 128 ) ( 1056 320 32 ) ( 1504 320 128 ) AAATRIGGER [ 1 0 0 -0 ] [ 0 0 -1 -12 ] 0 1 1
+( 1056 320 32 ) ( 1056 256 32 ) ( 1504 320 32 ) AAATRIGGER [ 1 0 0 -0 ] [ 0 -1 0 0 ] 0 1 1
+( 1504 256 128 ) ( 1056 256 128 ) ( 1504 320 128 ) AAATRIGGER [ 1 0 0 -0 ] [ 0 -1 0 0 ] 0 1 1
+}
+}
+{
+"classname" "game_text"
+"channel" "1"
+"fxtime" "0.25"
+"holdtime" "10"
+"fadeout" "0.5"
+"fadein" "1.5"
+"color2" "240 110 0"
+"color" "100 100 100"
+"effect" "0"
+"y" "-1"
+"x" "-1"
+"teamindex" "-1"
+"triggerstate" "0"
+"delay" "0"
+"health" "10"
+"frags" "0"
+"angles" "0 0 0"
+"message" "This demonstrates wallpaper changes. \n Press the button to change wallpaper. \n Wallpapers are stored in your \n <mod_directory>/gfx/wallpapers \n \n Within the Wallpaper Property \n Just input the filename and you're good to go. \n \n Note that wallpaper reverts back to your \n original wallpaper with its settings \n when you leave or exit the game \n or a changelevel/mapchange occurs."
+"targetname" "text4"
+"origin" "1280 352 68"
+}
+{
+"classname" "func_button"
+"spawnflags" "1"
+"unlocked_sentence" "0"
+"locked_sentence" "0"
+"unlocked_sound" "0"
+"locked_sound" "0"
+"delay" "0"
+"wait" "3"
+"sounds" "0"
+"speed" "5"
+"zhlt_lightflags" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"target" "wp1"
+{
+( 1156 708 72 ) ( 1156 708 64 ) ( 1156 700 72 ) METAL_BORD01 [ -0 1 0 12.0002 ] [ 0 0 -1 32 ] 0 1 1
+( 1148 700 72 ) ( 1148 700 64 ) ( 1148 708 72 ) METAL_BORD01 [ -0 1 0 12.0002 ] [ 0 0 -1 32 ] 0 1 1
+( 1148 708 72 ) ( 1148 708 64 ) ( 1156 708 72 ) METAL_BORD01 [ -1 -0 0 0.000126839 ] [ 0 0 -1 32 ] 0 1 1
+( 1156 700 72 ) ( 1156 700 64 ) ( 1148 700 72 ) +0BUTTON3 [ -1 -0 0 -15.9995 ] [ 0 0 -1 0 ] 0 0.25 0.25
+( 1148 700 64 ) ( 1156 700 64 ) ( 1148 708 64 ) METAL_BORD01 [ -0 1 0 12.0002 ] [ 1 0 0 -0.000126839 ] 0 1 1
+( 1156 708 72 ) ( 1156 700 72 ) ( 1148 708 72 ) METAL_BORD01 [ -0 1 0 12.0002 ] [ 1 0 0 -0.000126839 ] 0 1 1
+}
+}
+{
+"classname" "light"
+"_falloff" "0"
+"_fade" "1.0"
+"style" "0"
+"_light" "255 255 128 200"
+"angles" "0 0 0"
+"origin" "1492 2 116"
+}
+{
+"classname" "func_button"
+"spawnflags" "1"
+"unlocked_sentence" "0"
+"locked_sentence" "0"
+"unlocked_sound" "0"
+"locked_sound" "0"
+"delay" "0"
+"wait" "3"
+"sounds" "0"
+"speed" "5"
+"zhlt_lightflags" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"target" "wp2"
+{
+( 1284 708 72 ) ( 1284 708 64 ) ( 1284 700 72 ) METAL_BORD01 [ -0 1 0 12.0002 ] [ 0 0 -1 32 ] 0 1 1
+( 1276 700 72 ) ( 1276 700 64 ) ( 1276 708 72 ) METAL_BORD01 [ -0 1 0 12.0002 ] [ 0 0 -1 32 ] 0 1 1
+( 1276 708 72 ) ( 1276 708 64 ) ( 1284 708 72 ) METAL_BORD01 [ -1 -0 0 0.00012207 ] [ 0 0 -1 32 ] 0 1 1
+( 1284 700 72 ) ( 1284 700 64 ) ( 1276 700 72 ) +0BUTTON3 [ -1 -0 0 16.0005 ] [ 0 0 -1 0 ] 0 0.25 0.25
+( 1276 700 64 ) ( 1284 700 64 ) ( 1276 708 64 ) METAL_BORD01 [ -0 1 0 12.0002 ] [ 1 0 0 -0.00012207 ] 0 1 1
+( 1284 708 72 ) ( 1284 700 72 ) ( 1276 708 72 ) METAL_BORD01 [ -0 1 0 12.0002 ] [ 1 0 0 -0.00012207 ] 0 1 1
+}
+}
+{
+"classname" "func_button"
+"spawnflags" "1"
+"unlocked_sentence" "0"
+"locked_sentence" "0"
+"unlocked_sound" "0"
+"locked_sound" "0"
+"delay" "0"
+"wait" "3"
+"sounds" "0"
+"speed" "5"
+"zhlt_lightflags" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"target" "wp3"
+{
+( 1404 700 72 ) ( 1404 700 64 ) ( 1404 708 72 ) METAL_BORD01 [ -0 1 0 12.0002 ] [ 0 0 -1 32 ] 0 1 1
+( 1412 708 72 ) ( 1412 708 64 ) ( 1412 700 72 ) METAL_BORD01 [ -0 1 0 12.0002 ] [ 0 0 -1 32 ] 0 1 1
+( 1412 700 72 ) ( 1412 700 64 ) ( 1404 700 72 ) +0BUTTON3 [ -1 -0 0 -15.9995 ] [ 0 0 -1 0 ] 0 0.25 0.25
+( 1404 708 72 ) ( 1404 708 64 ) ( 1412 708 72 ) METAL_BORD01 [ -1 -0 0 0.00012207 ] [ 0 0 -1 32 ] 0 1 1
+( 1412 708 72 ) ( 1412 700 72 ) ( 1404 708 72 ) METAL_BORD01 [ -0 1 0 12.0002 ] [ 1 0 0 -0.00012207 ] 0 1 1
+( 1404 700 64 ) ( 1412 700 64 ) ( 1404 708 64 ) METAL_BORD01 [ -0 1 0 12.0002 ] [ 1 0 0 -0.00012207 ] 0 1 1
+}
+}
+{
+"classname" "trigger_wallpaper"
+"wallpaper_path" "wp2.png"
+"targetname" "wp2"
+"wallpaper" "wp2.png"
+"changeback" "0"
+"revert" "0"
+"origin" "1280 720 68"
+}
+{
+"classname" "trigger_wallpaper"
+"wallpaper_path" "wp2.png"
+"targetname" "wp3"
+"wallpaper" "clzt.bmp"
+"changeback" "0"
+"revert" "0"
+"origin" "1408 720 68"
+}
+{
+"classname" "trigger_wallpaper"
+"wallpaper_path" "wp2.png"
+"targetname" "wp1"
+"wallpaper" "wp1.bmp"
+"changeback" "0"
+"revert" "0"
+"origin" "1152 720 68"
+}
