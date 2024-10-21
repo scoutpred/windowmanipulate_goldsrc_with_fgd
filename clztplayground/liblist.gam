@@ -2,7 +2,7 @@
 // Download it at https://github.com/jean-knapp/windows-source-modding-tool/releases
 
 game	"Clazzette's Playground"
-startmap	"c0a0"
+startmap	"techdemo4thwall"
 trainmap	"t0a0"
 mpentity	"info_player_deathmatch"
 gamedll	"dlls\hl.dll"
