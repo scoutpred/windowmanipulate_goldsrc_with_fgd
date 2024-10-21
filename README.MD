@@ -24,7 +24,7 @@ ChatGPT for the majority of the codes.
 
 # [Disclaimer]
 
-Kindly check the source code. The program manipulates the registry mainly for the wallpaper changes, as well as getting information of the original wallpaper's settings you in order to revert properly.
+Kindly check the source code. The program manipulates the registry mainly for the wallpaper changes, as well as getting information of the original wallpaper's settings in order to revert to original wallpaper properly.
 
 The creator of OneShot actually did this to his game as per this thread - https://steamcommunity.com/app/420530/discussions/0/1729828401683446528/
 
@@ -41,11 +41,11 @@ It's not much, but you get the idea. This codebase is in need of improvement and
 
 -Being able to be played in multiple platforms, e.g. Mac or Linux or Android via Xash.
 
--An entity that allows you to revert back to the original wallpaper when you touch a trigger_once or multiple or multisource/manager entities. Apparently I aven't implemented this.
+-An entity that allows you to revert back to the original wallpaper when you touch a trigger_once or multiple or multisource/manager entities. Apparently I haven't implemented this.
 
 -A "Y/N" prompt window, allowing for choice-based games, tailoring your story.
 
--File I/O manipulation, if you played "Imscared" you know what i mean.
+-File I/O manipulation, if you played "Imscared" you know what I mean.
 
 -Various bug fixes should you find one.
 
