@@ -61,9 +61,7 @@ I only ask one thing if you are going to make something out of this.
 
 If you are going to credit me, only credit me for the idea alone, which is the idea of implementing 4th Wall elements in the GoldSrc engine. Nothing more, nothing less. You get what I mean.
 
-Codes go mostly for the external resources such as ChatGPT and Stack Overflow, the TWHL community and their HL Updated codebase, the Valve Dev community for the FGD, and the 4th wall ideas from other games.
-
-I don't deserve credit for that.
+Codes go mostly for the external resources such as ChatGPT and Stack Overflow, the TWHL community and their HL Updated codebase, the Valve Dev community for the FGD, and the 4th wall ideas from other games. I don't deserve credit for those.
 
 I'm willing to study further about C++ with this codebase to understand better on what I made. Feel free to share some so I can study more. :)
 
