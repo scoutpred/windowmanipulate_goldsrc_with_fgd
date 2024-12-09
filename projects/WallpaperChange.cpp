@@ -5,6 +5,8 @@
 #include <string>  // For std::string
 #include <cstring> // For std::strlen if needed
 
+// Definitely needed an entity to revert the wallpaper on trigger
+// Modify the FGD if needed.
 
 class CTriggerWallpaper : public CBaseEntity
 {

@@ -6,6 +6,10 @@
 #include <chrono>
 #include <string>
 
+// It is to be noted that the window moves relative to the position. Should need fixes.
+// Modify the FGD if needed
+// Remove Debugging from the console log.
+
 class CWindowMover : public CBaseEntity
 {
 public:
