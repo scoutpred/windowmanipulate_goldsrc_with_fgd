@@ -1,0 +1,128 @@
+{
+"classname" "worldspawn"
+"defaultteam" "0"
+"newunit" "0"
+"gametitle" "0"
+"startdark" "0"
+"MaxRange" "4096"
+"sounds" "1"
+"mapversion" "220"
+"wad" "/SteamLibrary/steamapps/common/Half-Life/valve/halflife.wad;/SteamLibrary/steamapps/common/Half-Life/valve/liquids.wad;/SteamLibrary/steamapps/common/Half-Life/valve/xeno.wad;/SteamLibrary/steamapps/common/Half-Life/valve/decals.wad;/SteamLibrary/steamapps/common/Half-Life/zhlt.wad;/SteamLibrary/steamapps/common/Half-Life/clztplayground/zhlt.wad;/SteamLibrary/steamapps/common/Half-Life/valve/decals.wad;/SteamLibrary/steamapps/common/Half-Life/valve/fonts.wad;/SteamLibrary/steamapps/common/Half-Life/clztplayground/cs_havana.wad;/SteamLibrary/steamapps/common/Half-Life/clztplayground/cz_lostcause.wad"
+"_generator" "J.A.C.K. 1.1.3773 Freeware (vpHalfLife)"
+{
+( -256 -256 32 ) ( -256 -256 0 ) ( -256 256 32 ) -0BABTECH_FLR10 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 224 256 32 ) ( 224 256 0 ) ( 224 -256 32 ) -0BABTECH_FLR10 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -256 256 32 ) ( -256 256 0 ) ( 224 256 32 ) -0BABTECH_FLR10 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 224 -256 32 ) ( 224 -256 0 ) ( -256 -256 32 ) -0BABTECH_FLR10 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 224 -256 32 ) ( -256 -256 32 ) ( 224 256 32 ) -0BABTECH_FLR10 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -256 256 0 ) ( -256 -256 0 ) ( 224 256 0 ) -0BABTECH_FLR10 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( -256 256 256 ) ( -256 256 32 ) ( -256 288 256 ) -0BABTECH_FLR10 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 224 288 256 ) ( 224 288 32 ) ( 224 256 256 ) -0BABTECH_FLR10 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -256 288 256 ) ( -256 288 32 ) ( 224 288 256 ) -0BABTECH_FLR10 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 224 256 256 ) ( 224 256 32 ) ( -256 256 256 ) -0BABTECH_FLR10 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 224 256 256 ) ( -256 256 256 ) ( 224 288 256 ) -0BABTECH_FLR10 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -256 288 32 ) ( -256 256 32 ) ( 224 288 32 ) -0BABTECH_FLR10 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( -256 -288 256 ) ( -256 -288 32 ) ( -256 -256 256 ) -0BABTECH_FLR10 [ 0 1 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( 224 -256 256 ) ( 224 -256 32 ) ( 224 -288 256 ) -0BABTECH_FLR10 [ 0 1 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( -256 -256 256 ) ( -256 -256 32 ) ( 224 -256 256 ) -0BABTECH_FLR10 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 224 -288 256 ) ( 224 -288 32 ) ( -256 -288 256 ) -0BABTECH_FLR10 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 224 -288 256 ) ( -256 -288 256 ) ( 224 -256 256 ) -0BABTECH_FLR10 [ 1 0 0 0 ] [ 0 -1 0 -32 ] 0 1 1
+( -256 -256 32 ) ( -256 -288 32 ) ( 224 -256 32 ) -0BABTECH_FLR10 [ 1 0 0 0 ] [ 0 -1 0 -32 ] 0 1 1
+}
+{
+( 256 256 256 ) ( 256 256 32 ) ( 256 -256 256 ) -0BABTECH_FLR10 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 224 -256 256 ) ( 224 -256 32 ) ( 224 256 256 ) -0BABTECH_FLR10 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 256 -256 256 ) ( 256 -256 32 ) ( 224 -256 256 ) -0BABTECH_FLR10 [ 1 0 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+( 224 256 256 ) ( 224 256 32 ) ( 256 256 256 ) -0BABTECH_FLR10 [ 1 0 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+( 224 256 32 ) ( 224 -256 32 ) ( 256 256 32 ) -0BABTECH_FLR10 [ 1 0 0 -32 ] [ 0 -1 0 0 ] 0 1 1
+( 256 -256 256 ) ( 224 -256 256 ) ( 256 256 256 ) -0BABTECH_FLR10 [ 1 0 0 -32 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( -256 256 256 ) ( -256 256 32 ) ( -256 -256 256 ) -0BABTECH_FLR10 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -288 -256 256 ) ( -288 -256 32 ) ( -288 256 256 ) -0BABTECH_FLR10 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -256 -256 256 ) ( -256 -256 32 ) ( -288 -256 256 ) -0BABTECH_FLR10 [ 1 0 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( -288 256 256 ) ( -288 256 32 ) ( -256 256 256 ) -0BABTECH_FLR10 [ 1 0 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( -288 256 32 ) ( -288 -256 32 ) ( -256 256 32 ) -0BABTECH_FLR10 [ 1 0 0 32 ] [ 0 -1 0 0 ] 0 1 1
+( -256 -256 256 ) ( -288 -256 256 ) ( -256 256 256 ) -0BABTECH_FLR10 [ 1 0 0 32 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( -256 -256 288 ) ( -256 -256 256 ) ( -256 256 288 ) -0BABTECH_FLR10 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 224 256 288 ) ( 224 256 256 ) ( 224 -256 288 ) -0BABTECH_FLR10 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -256 256 288 ) ( -256 256 256 ) ( 224 256 288 ) -0BABTECH_FLR10 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 224 -256 288 ) ( 224 -256 256 ) ( -256 -256 288 ) -0BABTECH_FLR10 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 224 -256 288 ) ( -256 -256 288 ) ( 224 256 288 ) -0BABTECH_FLR10 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -256 256 256 ) ( -256 -256 256 ) ( 224 256 256 ) -0BABTECH_FLR10 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 112 -8 88 ) ( 112 -8 32 ) ( 112 8 88 ) -0BABTECH_FLR10 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 128 8 88 ) ( 128 8 32 ) ( 128 -8 88 ) -0BABTECH_FLR10 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 112 8 88 ) ( 112 8 32 ) ( 128 8 88 ) -0BABTECH_FLR10 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 128 -8 88 ) ( 128 -8 32 ) ( 112 -8 88 ) -0BABTECH_FLR10 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 128 -8 88 ) ( 112 -8 88 ) ( 128 8 88 ) -0BABTECH_FLR10 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 112 8 32 ) ( 112 -8 32 ) ( 128 8 32 ) -0BABTECH_FLR10 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+}
+{
+"classname" "info_player_start"
+"angles" "0 0 0"
+"origin" "-128 0 68"
+}
+{
+"classname" "light"
+"_falloff" "0"
+"_fade" "1.0"
+"style" "0"
+"_light" "255 255 128 200"
+"origin" "-48 51 208"
+}
+{
+"classname" "trigger_msgbox"
+"choiceType" "0"
+"targetname" "yes"
+"message" "You picked yes!"
+"WinTitle" "YES, IT IS WORKING!"
+"button1Text" "OK"
+"origin" "176 192 160"
+}
+{
+"classname" "trigger_msgbox"
+"choiceType" "0"
+"targetname" "no"
+"message" "You picked no!"
+"WinTitle" "NONETHELESS, IT IS WORKING!"
+"button1Text" "OK"
+"origin" "176 192 192"
+}
+{
+"classname" "button_target"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"spawnflags" "1"
+"zhlt_lightflags" "0"
+"target" "prompt"
+{
+( 112 -8 104 ) ( 112 -8 88 ) ( 112 8 104 ) +0BUTTON2 [ 0 1 0 16 ] [ 0 0 -1 16 ] 0 0.5 0.5
+( 128 8 104 ) ( 128 8 88 ) ( 128 -8 104 ) -0BABTECH_FLR10 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 112 8 104 ) ( 112 8 88 ) ( 128 8 104 ) -0BABTECH_FLR10 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 128 -8 104 ) ( 128 -8 88 ) ( 112 -8 104 ) -0BABTECH_FLR10 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 128 -8 104 ) ( 112 -8 104 ) ( 128 8 104 ) -0BABTECH_FLR10 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 112 8 88 ) ( 112 -8 88 ) ( 128 8 88 ) -0BABTECH_FLR10 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+}
+{
+"classname" "trigger_msgbox"
+"choiceType" "1"
+"targetname" "prompt"
+"message" "Let's see if this works..."
+"WinTitle" "Pick your choice"
+"button1Text" "Yes"
+"button2Text" "No"
+"trigger1" "yes"
+"trigger2" "no"
+"origin" "176 160 176"
+}

@@ -2717,18 +2717,21 @@
 @PointClass base(Targetname, RenderFields, Angles) size(-90 -90 0, 90 90 220 ) model({ "path": "models/fungus(large).mdl" }) = xen_spore_large : "Xen Spore (large)" []
 
 
-@PointClass base(Targetname) = trigger_msgbox : "Displays a message box when triggered."
+@PointClass base(Targetname) = trigger_msgbox : "Displays a message box with configurable buttons."
 [
-    message(string) : "Message" : : "The message to display in the box."
-    WinTitle(string) : "Window Title" : : "The title of the message box window."
-    choiceType(choices) : "Choice Type" : 0 =
+    message(string) : "Message" : "" : "The message displayed in the dialog."
+    WinTitle(string) : "Window Title" : "" : "The title of the dialog window."
+    button1Text(string) : "Button 1 Text" : "" : "Text for the first button."
+    button2Text(string) : "Button 2 Text" : "" : "Text for the second button."
+    choiceType(choices) : "Choice Type" : 0 = 
     [
         0 : "Single Choice"
         1 : "Two Choices"
     ]
-    button1Text(string) : "Button 1 Text" : "OK" : "Text for the first button."
-    button2Text(string) : "Button 2 Text" : "" : "Text for the second button (only for Two Choices)."
+    trigger1(target_destination) : "Entity triggered by Button 1."
+    trigger2(target_destination) : "Entity triggered by Button 2."
 ]
+
 
 
 @PointClass base(Targetname) = window_mover : "Moves the game window to a specified position over time with optional easing effects."
